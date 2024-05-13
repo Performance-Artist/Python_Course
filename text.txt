@@ -1,0 +1,19 @@
+Python in the Real World
+So, is learning Python worth the time and effort? Is it a fad or a toy? Actually, it’s been
+around since 1991 (longer than Java), and is consistently in the top 10 most popular
+computing languages. People are paid to write Python programs—serious stuff that you
+use every day, such as Google, YouTube, Dropbox, Netflix, and Hulu. I’ve used it for
+production applications as varied as an email search appliance and an ecommerce web‐
+site. Python has a reputation for productivity that appeals to fast-moving organizations.
+You’ll find Python in many computing environments, including the following:
+• The command line in a monitor or terminal window
+Python in the Real World | 5• Graphical user interfaces, including the Web
+• The Web, on the client and server sides
+• Backend servers supporting large popular sites
+• The cloud (servers managed by third parties)
+• Mobile devices
+• Embedded devices
+Python programs range from one-off scripts—such as those you’ve seen so far in this
+chapter—to million-line systems. We’ll look at its uses in websites, system administra‐
+tion, and data manipulation. We’ll also look at specific uses of Python in the arts, science,
+and business.
